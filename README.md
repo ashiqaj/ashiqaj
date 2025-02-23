@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm MOHAMMED ASHIQ J
 
-Welcome to my GitHub profile! I'm a passionate web developer focused on creating intuitive and optimized front-end experiences.
+Welcome to my GitHub profile! I'm a passionate Software & web developer focused on creating intuitive and optimized front-end experiences.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Online Book Store Frontend**
@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a passionate web developer focused on creating
 - 📫 Reach me at: [your-email@example.com] | [LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/yourhandle)
 
 ## 🔨 Tech Stack
-- **Languages:** HTML, CSS, JavaScript (ES6+)
+- **Languages:** C,C++,Java,Python,HTML, CSS, JavaScript (ES6+)
 - **Frameworks & Libraries:** Tailwind CSS, Bootstrap
-- **Tools & Platforms:** Git, GitHub, VS Code
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma,
 
 ## 📂 Featured Projects
 ### 🌟 [Online Book Store - Frontend](https://github.com/ashiqaj/OBS)
